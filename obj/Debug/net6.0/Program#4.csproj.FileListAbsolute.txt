@@ -1,0 +1,15 @@
+C:\Users\MARCO BERNA\Desktop\Program#4\bin\Debug\net6.0\Program#4.exe
+C:\Users\MARCO BERNA\Desktop\Program#4\bin\Debug\net6.0\Program#4.deps.json
+C:\Users\MARCO BERNA\Desktop\Program#4\bin\Debug\net6.0\Program#4.runtimeconfig.json
+C:\Users\MARCO BERNA\Desktop\Program#4\bin\Debug\net6.0\Program#4.dll
+C:\Users\MARCO BERNA\Desktop\Program#4\bin\Debug\net6.0\ref\Program#4.dll
+C:\Users\MARCO BERNA\Desktop\Program#4\bin\Debug\net6.0\Program#4.pdb
+C:\Users\MARCO BERNA\Desktop\Program#4\obj\Debug\net6.0\Program#4.csproj.AssemblyReference.cache
+C:\Users\MARCO BERNA\Desktop\Program#4\obj\Debug\net6.0\Program#4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO BERNA\Desktop\Program#4\obj\Debug\net6.0\Program#4.AssemblyInfoInputs.cache
+C:\Users\MARCO BERNA\Desktop\Program#4\obj\Debug\net6.0\Program#4.AssemblyInfo.cs
+C:\Users\MARCO BERNA\Desktop\Program#4\obj\Debug\net6.0\Program#4.csproj.CoreCompileInputs.cache
+C:\Users\MARCO BERNA\Desktop\Program#4\obj\Debug\net6.0\Program#4.dll
+C:\Users\MARCO BERNA\Desktop\Program#4\obj\Debug\net6.0\ref\Program#4.dll
+C:\Users\MARCO BERNA\Desktop\Program#4\obj\Debug\net6.0\Program#4.pdb
+C:\Users\MARCO BERNA\Desktop\Program#4\obj\Debug\net6.0\Program#4.genruntimeconfig.cache
